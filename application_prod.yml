@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related fo2sha APIs "
+  contactDetails:
+    name: "fo2sha"
+    email: "fouad.mohamed@kazyon.com"
+  onCallSupport:
+    - (453) 392-4829
+    - (236) 203-0384
