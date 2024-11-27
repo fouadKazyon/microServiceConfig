@@ -7,7 +7,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related fo2sha APIs "
+  message: "Welcome to EazyBank accounts related fo2sha github APIs "
   contactDetails:
     name: "fo2sha"
     email: "fouad.mohamed@kazyon.com"
